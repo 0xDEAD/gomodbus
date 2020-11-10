@@ -1,6 +1,6 @@
 # go modbus
 
-**NOTE: mb package move to [mb](github.com/thinkgos/mb)**
+**NOTE: mb package move to [mb](https://github.com/thinkgos/mb)**
 
 [![GoDoc](https://godoc.org/github.com/thinkgos/gomodbus?status.svg)](https://godoc.org/github.com/thinkgos/gomodbus)
 [![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/thinkgos/gomodbus/v2?tab=doc)
